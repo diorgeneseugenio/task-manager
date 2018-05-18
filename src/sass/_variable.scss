@@ -1,0 +1,21 @@
+$primary-color: #7540EE;
+$primary-dark-color: darken($primary-color, 5%);
+$primary-light-color: lighten($primary-color, 5%);
+
+$light-on: #2DC76D;
+$light-shadow-on: lighten($light-on, 20%);
+
+$light-off: #FF7052;
+
+$margin-left-header-name: 10px;
+$diff-margin: 10px;
+$margin-left-header: ($margin-left-header-name + $diff-margin);
+
+$light-pendente: #ff2e34;
+$light-shadow-pendente: lighten($light-pendente, 20%);
+
+$light-producao: #fbe741;
+$light-shadow-producao: lighten($light-producao, 20%);
+
+$light-resolvida: #0dd019;
+$light-shadow-resolvida: lighten($light-resolvida, 20%);
